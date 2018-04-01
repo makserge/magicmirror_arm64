@@ -47,7 +47,7 @@ var config = {
       config: {
 		forecastEndpoint: "forecast",  
         location: "Kiev,Ukraine",
-		maxNumberOfDays: 4,
+		maxNumberOfDays: 3,
         locationID: "703448", //Kiev; //ID from http://www.openweathermap.org/help/city_list.txt
         appid: "API_KEY"
       }
